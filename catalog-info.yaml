@@ -3,6 +3,7 @@ kind: Component
 metadata:
   name: srs-secure-rag
   description: SRS Secure RAG
+  tags: ["srs"]
   annotations:
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: Lintasarta/srs-secure_RAG-v1.0

@@ -1,0 +1,3 @@
+# Product Overview
+
+Deka Secure RAG is a comprehensive solution designed to provide enterprise-grade security for Retrieval-Augmented Generation (RAG) applications. It addresses the critical need for data security and privacy by integrating Lintasarta DekaLLM with the F5 Security Stack. The primary goal is to enable enterprises, especially in regulated industries like finance and healthcare, to confidently deploy RAG applications without risking the exposure of sensitive data to external services. The core value proposition lies in its ability to anonymize sensitive data before it interacts with external components (like LLMaas or cloud-based Vector Databases), thus preserving data sovereignty and ensuring compliance with data protection regulations.
